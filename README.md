@@ -118,8 +118,6 @@ SELECT * FROM question;
 SELECT * FROM attempt;
 
 ![image alt](https://github.com/Rajsekhar2002/Candidate-Assessment-API/blob/57916932081582270ab2cb4f92ea8efa730eee59/AddQuestions.png)
-![image alt](https://github.com/Rajsekhar2002/Candidate-Assessment-API/blob/d3087f1c8fa072d6e3c9af320d0c115d59349f70/Assessment.png)
-![image alt](https://github.com/Rajsekhar2002/Candidate-Assessment-API/blob/d3087f1c8fa072d6e3c9af320d0c115d59349f70/SubmitAttempt.png)
 
 ## Summary
 A production-style Spring Boot REST API for candidate assessment management with automatic scoring, ranked results, validation, exception handling, and clean layered architecture.
