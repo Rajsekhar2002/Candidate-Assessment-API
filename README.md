@@ -117,7 +117,7 @@ SELECT * FROM assessment;
 SELECT * FROM question;
 SELECT * FROM attempt;
 
-![image alt](https://github.com/Rajsekhar2002/Candidate-Assessment-API/blob/56962ffb4a61b39c896baa594a8ffee8198846fe/AddQuestions.png)
+![image alt](https://github.com/Rajsekhar2002/Candidate-Assessment-API/blob/83b49b602f55d0bf15e3933ac86002f7a7d2da06/Assessment.png)
 ![image alt](https://github.com/Rajsekhar2002/Candidate-Assessment-API/blob/57916932081582270ab2cb4f92ea8efa730eee59/AddQuestions.png)
 ![image alt](https://github.com/Rajsekhar2002/Candidate-Assessment-API/blob/d3087f1c8fa072d6e3c9af320d0c115d59349f70/Start%20Attempt.png)
 ![image alt](https://github.com/Rajsekhar2002/Candidate-Assessment-API/blob/d3087f1c8fa072d6e3c9af320d0c115d59349f70/SubmitAttempt.png)
